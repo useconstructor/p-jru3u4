@@ -1,0 +1,29 @@
+API Error: Request rejected (429) · Too many tokens per day, please wait before trying again.
+
+
+=== GIT STATUS ===
+ M app/globals.css
+ M app/layout.tsx
+ M app/page.tsx
+?? .build-instructions.md
+?? CLAUDE_DEBUG.log
+?? app/app/
+?? app/book-a-call/
+?? app/components/
+?? app/for/
+?? app/pricing/
+?? app/use-cases/
+
+=== FILES IN APP ===
+total 26
+drwxr-xr-x 1 builder builder   280 Aug 25 06:54 .
+drwxr-xr-x 1 builder builder   340 Aug 25 06:59 ..
+drwxr-xr-x 1 builder builder    80 Aug 25 06:54 app
+drwxr-xr-x 1 builder builder    80 Aug 25 06:54 book-a-call
+drwxr-xr-x 1 builder builder   120 Aug 25 06:54 components
+drwxr-xr-x 1 builder builder    80 Aug 25 06:54 for
+-rw-r--r-- 1 builder builder   196 Aug 25 06:54 globals.css
+-rw-r--r-- 1 builder builder   710 Aug 25 06:54 layout.tsx
+-rw-r--r-- 1 builder builder 24402 Aug 25 06:54 page.tsx
+drwxr-xr-x 1 builder builder    80 Aug 25 06:54 pricing
+drwxr-xr-x 1 builder builder    80 Aug 25 06:54 use-cases
