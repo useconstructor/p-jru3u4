@@ -26,24 +26,22 @@ export default function SiteHeader() {
               </Link>
             </li>
 
-            <li className="relative">
-              <button
-                type="button"
-                className="group inline-flex h-11 items-center text-sm font-medium text-gray-900 transition-colors hover:text-gray-600"
+            <li>
+              <Link
+                href="/use-cases"
+                className="inline-flex h-11 items-center text-sm font-medium text-gray-900 transition-colors hover:text-gray-600"
               >
                 Use Cases
-                <ChevronDown className="ml-1 h-3 w-3 transition-transform group-hover:rotate-180" />
-              </button>
+              </Link>
             </li>
 
-            <li className="relative">
-              <button
-                type="button"
-                className="group inline-flex h-11 items-center text-sm font-medium text-gray-900 transition-colors hover:text-gray-600"
+            <li>
+              <Link
+                href="/for"
+                className="inline-flex h-11 items-center text-sm font-medium text-gray-900 transition-colors hover:text-gray-600"
               >
                 Industries
-                <ChevronDown className="ml-1 h-3 w-3 transition-transform group-hover:rotate-180" />
-              </button>
+              </Link>
             </li>
 
             <li>
